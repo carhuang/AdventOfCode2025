@@ -12,5 +12,4 @@ This is how I parse the ranges input -- I loop through all ranges input and extr
 
 I find this logic buggy to implement and had to make use of a test ranges file.
 
-If I were to do it again, I would try using an Interval Tree data structure to store the ranges.
-
+If I were to do it again, I would try to use an Interval Tree data structure to store the ranges.
